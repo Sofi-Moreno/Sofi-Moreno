@@ -1,5 +1,21 @@
 # 🌍 Hi, I'm Sofi
-**"My purpose is clear: to build a bridge between technological efficiency and human warmth."** <br><br> **📌 About me:** <br>- 🔍 Fifth-semester Computer Engineering student at UCAB with a passion for backend, AI, and UX/UI.<br>- 🧠 My thirst for knowledge is insatiable, and every challenge opens the door to new skills and perspectives.<br>- ✨ Outside of work: lover of reading, video games and human warmth.<br><br> **🛠️ In focus:** <br><br> **🔨 I currently work at:** <br>- Improve my programming logic and expand my knowledge of languages such as C, C++, data structures, and web programming.<br>- Improve my soft skills such as project management, English, and my personal brand.<br><br> **🤝 I am looking to collaborate on:** <br>- Projects related to web programming, data management, and UX/UI design.<br><br> **🆘 I'm looking for help with:** <br>- Improve my backend and data management skills.<br>- Improve my English skills.<br><br> **📚 I'm learning:** <br>- Information systems and how to apply them<br>- Programming languages such as C, JavaScript, HTML, and CSS<br>- Microcontroller programming and cybersecurity<br><br> **💡 Ask me about:** <br>- Fundamentals of programming and Python.<br>- Logic and Mathematics.<br><br> **✨ Fun fact:** <br>- My favorite programming paradigm is OOP.
+**"My purpose is clear: to build a bridge between technological efficiency and human warmth."** <br><br> 
+### **📌 About me:** 
+<br>- 🔍 Fifth-semester Computer Engineering student at UCAB with a passion for backend, AI, and UX/UI.<br>- 🧠 My thirst for knowledge is insatiable, and every challenge opens the door to new skills and perspectives.<br>- ✨ Outside of work: lover of reading, video games and human warmth.<br><br>
+### **🛠️ In focus:**
+<br><br>
+#### **🔨 I currently work at:** 
+<br>- Improve my programming logic and expand my knowledge of languages such as C, C++, data structures, and web programming.<br>- Improve my soft skills such as project management, English, and my personal brand.<br><br>
+#### **🤝 I am looking to collaborate on:** 
+<br>- Projects related to web programming, data management, and UX/UI design.<br><br> 
+#### **🆘 I'm looking for help with:** 
+<br>- Improve my backend and data management skills.<br>- Improve my English skills.<br><br>
+#### **📚 I'm learning:** 
+<br>- Information systems and how to apply them<br>- Programming languages such as C, JavaScript, HTML, and CSS<br>- Microcontroller programming and cybersecurity<br><br> 
+#### **💡 Ask me about:** 
+<br>- Fundamentals of programming and Python.<br>- Logic and Mathematics.<br><br> 
+#### **✨ Fun fact:** 
+<br>- My favorite programming paradigm is OOP.
 
 
 ## 🌐 Socials:
