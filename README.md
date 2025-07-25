@@ -19,7 +19,8 @@
 - Improve my English skills.
 
 #### **📚 I'm learning:** 
-- Information systems and how to apply them<br>- Programming languages such as C, JavaScript, HTML, and CSS
+- Information systems and how to apply them.
+- Programming languages such as C, JavaScript, HTML, and CSS.
 - Microcontroller programming and cybersecurity.
 - Electricity and robotics.
 
