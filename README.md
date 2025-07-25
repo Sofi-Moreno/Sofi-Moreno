@@ -6,7 +6,19 @@
 [![Instagram](https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000)](https://www.instagram.com/codewithsofii?igsh=YWtyOWU3cjR1MDBv) [![LinkedIn](https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000)](https://www.linkedin.com/in/sofia-moreno-698303335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![TikTok](https://img.icons8.com/?size=100&id=oKHadYScUe2I&format=png&color=000000)](https://www.tiktok.com/@codewithsofii?_t=ZM-8yKYPpZgCw9&_r=1) [![email](https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000)](mailto:sofiagmorenov@gmail.com)
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)
+![C](https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000) 
+![Java](https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000) 
+![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) 
+![JavaScript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000) 
+![HTML5](https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000) 
+![CSS3](https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000)
+![Figma](https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000) 
+![Canva](https://img.icons8.com/?size=100&id=EZQdGLNeo7JI&format=png&color=000000) 
+![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000) 
+![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+![Trello](https://img.icons8.com/?size=100&id=H4DDHeIh2wyC&format=png&color=000000) 
+![Visual Studio Code](https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sofi-Moreno&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>  
