@@ -1,5 +1,6 @@
 # 🌍 Hi, I'm Sofi
-**"My purpose is clear: to build a bridge between technological efficiency and human warmth."** <br> 
+### **"My purpose is clear: to build a bridge between technological efficiency and human warmth."**
+
 ### **📌 About me:** 
 - 🔍 Fifth-semester Computer Engineering student at UCAB with a passion for backend, AI, and UX/UI.
 - 🧠 My thirst for knowledge is insatiable, and every challenge opens the door to new skills and perspectives.
@@ -15,7 +16,7 @@
 
 #### **🆘 I'm looking for help with:** 
 - Improve my backend and data management skills.
--  Improve my English skills.
+- Improve my English skills.
 
 #### **📚 I'm learning:** 
 - Information systems and how to apply them<br>- Programming languages such as C, JavaScript, HTML, and CSS
